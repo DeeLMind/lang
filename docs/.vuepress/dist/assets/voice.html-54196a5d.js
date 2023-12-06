@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-73139ea0","path":"/voice.html","title":"发声原理","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.01,"words":4},"filePathRelative":"voice.md"}');export{e as data};

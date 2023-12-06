@@ -12,9 +12,9 @@ export default hopeTheme({
 <div style="display: flex;align-items: center">
   <span style="margin-right:16px">网络安全</span>
   <a
-    href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50011202503421"
+    href="https://deelmind.com.cn"
     target="_blank"
-    style="display:flex;align-items:center;color:#383a42"
+    style="display:flex;align-items:center;color:#3eaf7c"
   >
   https://deelmind.com.cn
   </a>

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-55b22958","path":"/cantonese/","title":"语言","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.01,"words":2},"filePathRelative":"cantonese/README.md"}');export{e as data};
