@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3d4f67ea","path":"/arabic/","title":"语言","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.01,"words":2},"filePathRelative":"arabic/README.md"}');export{e as data};

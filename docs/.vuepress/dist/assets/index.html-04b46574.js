@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7ce87988","path":"/ztmandarin/","title":"语言","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.01,"words":2},"filePathRelative":"ztmandarin/README.md"}');export{e as data};

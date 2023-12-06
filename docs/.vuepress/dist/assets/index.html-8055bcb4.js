@@ -1,0 +1,1 @@
+import{_ as a,Z as t,$ as c,a1 as e,a2 as n}from"./framework-a9513b17.js";const r={},s=e("h1",{id:"语言",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#语言","aria-hidden":"true"},"#"),n(" 语言")],-1),o=[s];function _(d,i){return t(),c("div",null,o)}const l=a(r,[["render",_],["__file","index.html.vue"]]);export{l as default};

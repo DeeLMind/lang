@@ -1,0 +1,47 @@
+{
+  "name": "Lang",
+  "version": "0.6.0",
+  "description": "Lang",
+  "scripts": {
+    "docs:dev": "vuepress dev docs -p 8082",
+    "docs:build": "vuepress build docs",
+    "build:serve": "serve ./docs/.vuepress/dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crawlab-team/crawlab-docs.git"
+  },
+  "author": "DeeLMind",
+  "license": "BSD-3-Clause",
+  "packageManager": "pnpm@8.4.0",
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.61",
+    "@vuepress/plugin-register-components": "2.0.0-beta.61",
+    "@vuepress/shared": "2.0.0-beta.61",
+    "@vuepress/utils": "2.0.0-beta.61",
+    "argparse": "^2.0.1",
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^10.0.0",
+    "md5": "^2.3.0",
+    "qiniu": "^7.8.0",
+    "qs": "^6.11.1",
+    "rapidoc": "^9.3.4",
+    "serve": "^13.0.4",
+    "vue": "^3.2.47",
+    "vueperslides": "^3.5.1",
+    "vuepress": "2.0.0-beta.61",
+    "vuepress-plugin-redirect": "2.0.0-beta.208",
+    "vuepress-theme-hope": "2.0.0-beta.208",
+    "vuepress-shared": "2.0.0-beta.208",
+    "walk-sync": "^3.0.0"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "react",
+        "react-dom"
+      ]
+    }
+  }
+}
