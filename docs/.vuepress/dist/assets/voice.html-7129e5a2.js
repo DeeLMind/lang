@@ -1,1 +1,0 @@
-import{_ as a,Z as t,$ as c,a1 as e,a2 as o}from"./framework-a9513b17.js";const r={},s=e("h1",{id:"发声原理",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#发声原理","aria-hidden":"true"},"#"),o(" 发声原理")],-1),n=[s];function _(d,i){return t(),c("div",null,n)}const l=a(r,[["render",_],["__file","voice.html.vue"]]);export{l as default};
