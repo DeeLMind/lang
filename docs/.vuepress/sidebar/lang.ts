@@ -13,7 +13,8 @@ export const langSidebar = sidebar({
     "grammar"
   ],
   "/english/":[
-    "grammar"
+    "grammar",
+    "1"
   ],
   "/japanese/":[
     "grammar"

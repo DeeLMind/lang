@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7189aa00","path":"/english/1.html","title":"Speak American English in 30 Minutes","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":19.17,"words":5752},"filePathRelative":"english/1.md"}');export{e as data};
