@@ -2,24 +2,44 @@ import { sidebar } from "vuepress-theme-hope";
 
 export const langSidebar = sidebar({
   "/":[
-    "voice"
+    "voice",
+    "famliy",
+    "order",
+    "word",
+    "phonetic",
+    "learn"
   ],
   "/ztmandarin/":[
-    "1"
+    "grammar"
   ],
-  "/pay/":[
-  {
-    text: "付费课程",
-    // icon: "creative",
-    prefix: "class/",
-    collapsible: true,
-    children: ["pentest","iosmac","windows","androidlinux","ai"],
-  },
-  "group",
-  "services",
-  "alive",
-  "platform",
-  "download",
-  "video",
+  "/english/":[
+    "grammar"
+  ],
+  "/japanese/":[
+    "grammar"
+  ],
+  "/korean/":[
+    "grammar"
+  ],
+  "/arabic/":[
+    "grammar"
+  ],
+  "/cantonese/":[
+    "grammar"
+  ],
+  "/french/":[
+    "grammar"
+  ],
+  "/german/":[
+    "grammar"
+  ],
+  "/russia/":[
+    "grammar"
+  ],
+  "/spanish/":[
+    "grammar"
+  ],
+  "/portugal/":[
+    "grammar"
   ]
 });
