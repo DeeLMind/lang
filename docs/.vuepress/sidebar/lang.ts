@@ -10,37 +10,37 @@ export const langSidebar = sidebar({
     "learn"
   ],
   "/ztmandarin/":[
-    "grammar"
+    //"grammar",
   ],
   "/english/":[
-    "grammar",
+    //"grammar",,
     "1"
   ],
   "/japanese/":[
-    "grammar"
+    //"grammar",
   ],
   "/korean/":[
-    "grammar"
+    //"grammar",
   ],
   "/arabic/":[
-    "grammar"
+    //"grammar",
   ],
   "/cantonese/":[
-    "grammar"
+    //"grammar",
   ],
   "/french/":[
-    "grammar"
+    //"grammar",
   ],
   "/german/":[
-    "grammar"
+    //"grammar",
   ],
   "/russia/":[
-    "grammar"
+    //"grammar",
   ],
   "/spanish/":[
-    "grammar"
+    //"grammar",
   ],
   "/portugal/":[
-    "grammar"
+    //"grammar",
   ]
 });
