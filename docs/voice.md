@@ -6,6 +6,8 @@
 
 > 生命在于一呼一吸，合理的呼吸会给人带来更大的能量。
 
+## [发声可视化](https://www.youtube.com/watch?v=q9GrYNcvQag)
+
 ## 人体构造
 * 声带
 * 肺部
