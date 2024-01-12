@@ -41,6 +41,7 @@ export default hopeTheme({
         { text: "Português",  link: "/portugal/" },
         { text: "Pуская мова",  link: "/russia/" },
         { text: "فرنسي",  link: "/arabic/" },
+        { text: "声乐",  link: "/sing/" },
       ]),
       sidebar: langSidebar,
     },

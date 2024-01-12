@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1548f427","path":"/sing/","title":"声乐","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.01,"words":2},"filePathRelative":"sing/README.md"}');export{e as data};

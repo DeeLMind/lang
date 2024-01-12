@@ -42,5 +42,8 @@ export const langSidebar = sidebar({
   ],
   "/portugal/":[
     //"grammar",
+  ],
+  "/sing/":[
+    //"grammar",
   ]
 });
