@@ -17,31 +17,41 @@ export const langSidebar = sidebar({
     "1"
   ],
   "/japanese/":[
-    //"grammar",
+    "",
+    "word",
+    "grammar",
   ],
   "/korean/":[
-    //"grammar",
+    "word",
+    "grammar",
   ],
   "/arabic/":[
-    //"grammar",
+    "word",
+    "grammar",
   ],
   "/cantonese/":[
-    //"grammar",
+    "word",
+    "grammar",
   ],
   "/french/":[
-    //"grammar",
+    "word",
+    "grammar",
   ],
   "/german/":[
-    //"grammar",
+    "word",
+    "grammar",
   ],
   "/russia/":[
-    //"grammar",
+    "word",
+    "grammar",
   ],
   "/spanish/":[
-    //"grammar",
+    "word",
+    "grammar",
   ],
   "/portugal/":[
-    //"grammar",
+    "word",
+    "grammar",
   ],
   "/sing/":[
     //"grammar",

@@ -1,0 +1,1 @@
+import{_ as a,Z as r,$ as t,a0 as e,a1 as c}from"./framework-9d741915.js";const s={},o=e("h1",{id:"语法",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#语法","aria-hidden":"true"},"#"),c(" 语法")],-1),n=[o];function _(d,i){return r(),t("div",null,n)}const l=a(s,[["render",_],["__file","grammar.html.vue"]]);export{l as default};
