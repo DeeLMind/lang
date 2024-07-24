@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-709196db","path":"/spanish/word.html","title":"单词","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"","slug":"","link":"#","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.01,"words":2},"filePathRelative":"spanish/word.md"}');export{e as data};
