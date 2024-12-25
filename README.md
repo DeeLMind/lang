@@ -1,1 +1,1 @@
-# LANG
+# [https://lang.deelmind.com.cn/](https://lang.deelmind.com.cn/)
